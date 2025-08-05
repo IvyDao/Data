@@ -1,6 +1,7 @@
 # Trial Description
 ---
 **Contributors**: Changhyeon Kim, Ivy Dao, Kenneth Tran, Chieri Kubota
+
 **Contact person**: Kenneth Tran (ken@koidra.ai)
 
 **Crop**: cherry tomato ‘Maxxiany’, planted at 3 plants/m² density.
